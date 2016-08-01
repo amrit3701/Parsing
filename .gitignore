@@ -1,0 +1,4 @@
+*snazzle*
+*.out
+*.tab.h
+lex.yy.c
